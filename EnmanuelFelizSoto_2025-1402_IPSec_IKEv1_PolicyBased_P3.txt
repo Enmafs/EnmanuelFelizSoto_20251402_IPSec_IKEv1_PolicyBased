@@ -1,7 +1,7 @@
 ! =================================================================
 ! VPN Lab 01 - IPSec IKEv1 Policy-Based
 ! Crypto Map + ACL Criptografica
-! Enmanuel Feliz Soto | Matricula: 2025-1402 | Seccion 5 - Lunes
+! Enmanuel Feliz Soto | Matricula: 2025-1402 | Seccion 5
 ! ITLA - Seguridad en Redes
 ! =================================================================
 
