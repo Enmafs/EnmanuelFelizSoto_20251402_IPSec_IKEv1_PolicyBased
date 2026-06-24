@@ -23,7 +23,8 @@ VPN clásica basada en políticas. El tráfico interesante se define mediante AC
 
 ## 🗺️ Topología
 
-> 📸 **[INSERTAR CAPTURA DE TOPOLOGÍA AQUÍ]**
+> 📸 <img width="1191" height="647" alt="Captura de pantalla 2026-06-24 120545" src="https://github.com/user-attachments/assets/ab642bef-4375-42cf-8899-4fa51a5f16fe" />
+
 
 <!-- Coloca aquí el screenshot de PNetLab con la topología del Lab 01 -->
 
