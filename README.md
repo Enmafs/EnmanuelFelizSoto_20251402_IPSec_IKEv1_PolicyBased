@@ -82,13 +82,10 @@ El script completo de configuración se encuentra en:
 ### 2. Verificar la VPN
 
 ```
-show crypto isakmp sa
-```
-```
 show crypto ipsec sa
 ```
 ```
-show crypto map
+show crypto isakmp sa
 ```
 
 ### 3. Prueba de conectividad
@@ -100,15 +97,18 @@ ping 10.14.20.10 source 10.14.10.2
 
 ## 📸 Capturas de Verificación
 
-> 📸 **[INSERTAR CAPTURA: show crypto isakmp sa]**
+> 📸 <img width="1571" height="1001" alt="image" src="https://github.com/user-attachments/assets/9fd2891b-b8b6-4f4b-92cc-ea0bba6504e5" />
+
 
 <!-- Captura mostrando el estado QM_IDLE / ESTABLISHED -->
 
-> 📸 **[INSERTAR CAPTURA: show crypto ipsec sa]**
+> 📸 <img width="2004" height="785" alt="image" src="https://github.com/user-attachments/assets/cb3c4ce6-0641-48e5-803a-a661de1ab77e" />
+
 
 <!-- Captura mostrando pkts encaps/decaps incrementando -->
 
-> 📸 **[INSERTAR CAPTURA: ping exitoso]**
+> 📸 <img width="1397" height="1126" alt="image" src="https://github.com/user-attachments/assets/4edc6e1e-450c-4ae8-9f10-a0b6620e2700" />
+
 
 <!-- Captura del ping source 10.14.10.0/24 -->
 
